@@ -148,7 +148,7 @@ go to project and click on table editor then create new table
 | Name  | Type | Default Value |
 | ------------- |:-------------:|:-------------:|
 | id      | uuid     | gen_random_uuid()     |
-| created_at      | timestemp     | right bar     |
+| created_at      | timestemp     |     |
 | text     | text     |      | 
  completed     | bool     | false     |
 
